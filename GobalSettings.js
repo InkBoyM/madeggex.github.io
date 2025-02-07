@@ -62,7 +62,7 @@ if (tab) {
 }
 
 const settingsDefaultTab = {
-  title: "Settings - Sz Games",
+  title: "Settings - MadEgg EX",
   icon: "https://github.com/sz-games/home/blob/main/G.png?raw=true",
 };
 
