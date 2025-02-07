@@ -63,7 +63,7 @@ if (tab) {
 
 const settingsDefaultTab = {
   title: "Settings - MadEgg EX",
-  icon: "https://github.com/sz-games/home/blob/main/G.png?raw=true",
+  icon: "https://png.pngtree.com/png-clipart/20230520/original/pngtree-angry-eggs-png-image_9166378.png",
 };
 
 const setTitle = (title = "") => {
